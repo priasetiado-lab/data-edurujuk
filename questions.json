@@ -18,7 +18,7 @@
 {
     "id": 3,
     "category": "pelayanan rujukan",
-    "question": "Kenapa pasien harus dirujuk?"
+    "question": "Kenapa pasien harus dirujuk?",
     "answer": "Pasien perlu dirujuk apabila membutuhkan pemeriksaan, tindakan, atau pelayanan kesehatan lanjutan yang sesuai dengan kondisi medisnya dan tidak dapat diberikan secara optimal di fasilitas pelayanan kesehatan sebelumnya.",
     "active": true,
     "sort_order": 3
