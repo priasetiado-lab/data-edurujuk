@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Q001",
+    "category": "Pelayanan",
+    "question": "Apa saja jam pelayanan UPTD Puskesmas Bawolato?",
+    "answer": "Informasi jam pelayanan mengikuti jadwal pelayanan yang berlaku.",
+    "active": true,
+    "sort_order": 1
+  },
+  {
+    "id": "Q002",
+    "category": "Pendaftaran",
+    "question": "Apa syarat pendaftaran pasien baru?",
+    "answer": "Silakan membawa dokumen identitas dan dokumen jaminan kesehatan sesuai ketentuan pelayanan yang berlaku.",
+    "active": true,
+    "sort_order": 2
+  }
+]
